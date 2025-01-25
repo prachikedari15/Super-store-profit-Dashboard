@@ -11,7 +11,7 @@
         <li><strong>Interactive Filters & Slicers:</strong> Allows users to drill down into specific details.</li>
     </ul>
     
-    <h2>Tools & Technologies</h2>
+<h2>Tools & Technologies</h2>
     <ul>
         <li><strong>Power BI:</strong> Data visualization and dashboard creation.</li>
         <li><strong>DAX (Data Analysis Expressions):</strong> Used for advanced calculations.</li>
